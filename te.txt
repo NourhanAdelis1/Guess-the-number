@@ -1,0 +1,12 @@
+- say less or more
+
+rnn = 66
+hehe = 
+for 5 loops:
+if hehe > rnn:
+random number is less
+if hehe < rnn:
+random number is more
+if hehe == rnn:
+print(you are right)
+break loop
